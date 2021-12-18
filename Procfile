@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run lds0_project3.py
+web: sh setup.sh && streamlit run app_Recommendation_System.py

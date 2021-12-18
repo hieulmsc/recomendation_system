@@ -1,15 +1,5 @@
 streamlit
 pandas
-# numpy
-datetime
 matplotlib
-scipy
 seaborn
 sklearn
-statsmodels
-streamlit_pandas_profiling
-wordcloud
-jieba
-pandas_profiling
-gensim
-underthesea
