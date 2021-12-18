@@ -8,3 +8,4 @@ seaborn
 sklearn
 statsmodels
 streamlit_pandas_profiling
+wordcloud
