@@ -38,5 +38,5 @@ elif (page == "ContentBased ConsineSimilarities"):
 elif (page == "ContentBased GenSim"):
     loadContentBasedGenSim()
 
-else:
-    loadCollaborativeFiltering_Recommender()
+#else:
+#    loadCollaborativeFiltering_Recommender()
