@@ -11,3 +11,4 @@ streamlit_pandas_profiling
 wordcloud
 jieba
 pandas_profiling
+gensim
